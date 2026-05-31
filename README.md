@@ -1,5 +1,8 @@
 # Inverted index
 
+## Setup AWS EMR with Terraform
+[Setup Terraform + AWS EMR](/hive_lab/README.md)
+
 ## In your AWS EMR
 ```console
 mkdir -p ~/inverted_index && cd ~/inverted_index
